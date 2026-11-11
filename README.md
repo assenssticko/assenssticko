@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sourav Somaddar Symphony 👋
 
-<!--
-**assenssticko/assenssticko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Robotics & Artificial Intelligence Undergraduate
+at Lovely Professional University, India.
 
-Here are some ideas to get you started:
+## About Me
+I am interested in robotics, artificial intelligence,
+electronics, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building my programming and
+engineering skills through academic projects.
+
+## Skills I'm Learning
+- Python Programming
+- C/C++ Programming
+- Electronics and Circuit Simulation
+- Robotics Fundamentals
+- Artificial Intelligence
+
+## Current Goals
+- Build practical robotics and AI projects
+- Improve my programming skills
+- Explore research opportunities
+- Pursue higher studies in the USA
+
+## My Projects
+Projects will be added as I develop them.
